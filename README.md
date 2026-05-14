@@ -149,7 +149,7 @@ The installer will:
 ### 🚀 Быстрая установка
 
 ```bash
-git clone https://github.com/USERNAME/lain-wired-terminal-dotfiles-mint-ubuntu-debian.git
+git clone https://github.com/NanoTrash/lain-wired-terminal-dotfiles-mint-ubuntu-debian.git
 cd lain-wired-terminal-dotfiles-mint-ubuntu-debian
 ./install.sh
 ```
